@@ -1,0 +1,6 @@
+print(f"4 + 4 is {4+4}")
+print(f"10 - 2 is {10-2}")
+print(f"4 * 2 is {4*2}")
+print(f"16 / 2 is {16/2}")
+print(f"4 + 4 is ", end="")
+print(4+4)
